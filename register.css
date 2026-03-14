@@ -1,0 +1,15 @@
+body{
+    background-image: url(cup.jpg);
+    background-repeat: no-repeat;
+    background-size:2000px 1000px;
+}
+form{
+border: solid;
+width: 500px;
+margin-left: 1100px;
+margin-top: 100px;
+background-color: gray;
+}
+h1{
+    color: goldenrod;
+}
